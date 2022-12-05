@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_world", "hello_world\hello_world.csproj", "{D0B3F4D9-250C-4CE1-9913-221998D88A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumCalculator", "hello_world\SumCalculator.csproj", "{D0B3F4D9-250C-4CE1-9913-221998D88A2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileData", "ProfileData\ProfileData.csproj", "{AF0FAED7-82CA-4314-B69D-692D2276305D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatorAreaCircle", "calculatorAreaCircle\calculatorAreaCircle.csproj", "{F2C9954F-2A9A-496F-91A1-7B5010A723FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D0B3F4D9-250C-4CE1-9913-221998D88A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B3F4D9-250C-4CE1-9913-221998D88A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B3F4D9-250C-4CE1-9913-221998D88A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0FAED7-82CA-4314-B69D-692D2276305D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0FAED7-82CA-4314-B69D-692D2276305D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0FAED7-82CA-4314-B69D-692D2276305D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0FAED7-82CA-4314-B69D-692D2276305D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C9954F-2A9A-496F-91A1-7B5010A723FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C9954F-2A9A-496F-91A1-7B5010A723FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C9954F-2A9A-496F-91A1-7B5010A723FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C9954F-2A9A-496F-91A1-7B5010A723FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
