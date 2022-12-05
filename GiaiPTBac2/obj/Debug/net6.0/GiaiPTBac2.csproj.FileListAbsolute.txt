@@ -1,0 +1,30 @@
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.exe
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.deps.json
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.runtimeconfig.json
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.dll
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.pdb
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.csproj.AssemblyReference.cache
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.AssemblyInfoInputs.cache
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.AssemblyInfo.cs
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.csproj.CoreCompileInputs.cache
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.dll
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\refint\GiaiPTBac2.dll
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.pdb
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.genruntimeconfig.cache
+E:\Workspace\hoc c sharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\ref\GiaiPTBac2.dll
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.exe
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.deps.json
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.runtimeconfig.json
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.dll
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\bin\Debug\net6.0\GiaiPTBac2.pdb
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.csproj.AssemblyReference.cache
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.AssemblyInfoInputs.cache
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.AssemblyInfo.cs
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.csproj.CoreCompileInputs.cache
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.dll
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\refint\GiaiPTBac2.dll
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.pdb
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\GiaiPTBac2.genruntimeconfig.cache
+E:\Workspace\hoc_csharp\csharp_exercises\GiaiPTBac2\obj\Debug\net6.0\ref\GiaiPTBac2.dll

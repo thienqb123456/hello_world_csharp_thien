@@ -1,0 +1,15 @@
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\bin\Debug\net6.0\GiaiPhuongTrinhBacNhat.exe
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\bin\Debug\net6.0\GiaiPhuongTrinhBacNhat.deps.json
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\bin\Debug\net6.0\GiaiPhuongTrinhBacNhat.runtimeconfig.json
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\bin\Debug\net6.0\GiaiPhuongTrinhBacNhat.dll
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\bin\Debug\net6.0\GiaiPhuongTrinhBacNhat.pdb
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.csproj.AssemblyReference.cache
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.AssemblyInfoInputs.cache
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.AssemblyInfo.cs
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.dll
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\refint\GiaiPhuongTrinhBacNhat.dll
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.pdb
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\GiaiPhuongTrinhBacNhat.genruntimeconfig.cache
+E:\Workspace\hoc c sharp\csharp_exercises\csharp_exercises\obj\Debug\net6.0\ref\GiaiPhuongTrinhBacNhat.dll
