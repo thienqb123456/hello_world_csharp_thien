@@ -1,0 +1,15 @@
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\bin\Debug\net6.0\TinhGiaiThua.exe
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\bin\Debug\net6.0\TinhGiaiThua.deps.json
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\bin\Debug\net6.0\TinhGiaiThua.runtimeconfig.json
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\bin\Debug\net6.0\TinhGiaiThua.dll
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\bin\Debug\net6.0\TinhGiaiThua.pdb
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.csproj.AssemblyReference.cache
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.AssemblyInfoInputs.cache
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.AssemblyInfo.cs
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.csproj.CoreCompileInputs.cache
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.dll
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\refint\TinhGiaiThua.dll
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.pdb
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\TinhGiaiThua.genruntimeconfig.cache
+E:\Workspace\hoc_csharp\csharp_exercises\TinhGiaiThua\obj\Debug\net6.0\ref\TinhGiaiThua.dll
